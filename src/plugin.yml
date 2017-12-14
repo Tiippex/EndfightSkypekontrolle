@@ -1,0 +1,7 @@
+name: EFAddonTiippex
+version: 1.0
+author: Tiippex
+main: de.Tiippex.EF.Addon.by.Tiippex.Main
+commands:
+  skypekontrolle:
+     aliases: [sk]
